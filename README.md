@@ -27,7 +27,7 @@ Go to worktree at /path/to/worktree? (y/n) y
 
 1. Clone this repository into oh-my-zsh's plugins directory:
    ```bash
-   git clone https://github.com/AdelinBaworktree/git-worktree-smart-checkout ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/git-worktree-smart-checkout
+   git clone https://github.com/adelin-b/git-worktree-smart-checkout ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/git-worktree-smart-checkout
    ```
 
 2. Add the plugin to your `.zshrc`:
